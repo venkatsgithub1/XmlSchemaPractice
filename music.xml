@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Music xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	   xsi:noNamespaceSchemaLocation='schemaForMusic.xsd'>
-<genre specific="EDM">
-<song>Scary ghosts and nice sprites</song>
-<dj>skrillex</dj>
-<year>2011</year>
-</genre>
-</Music>
